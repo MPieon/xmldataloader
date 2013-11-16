@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<levels>
+	<level><!-- Question 0 ! -->
+	<name>Question</name>
+	<tutorial>Who am I? z=1, x=2, c=3, v=4</tutorial>
+	<object name="Cube"> 1. Hi, I'm Bob!</object>
+	<object name="Cylinder"> 2. Hi, I'm Francis! </object>
+	<object name="Capsule"> 3. Hi, I'm Duncan!  </object>
+	<object name="Sphere"> 4. Hi, I'm Putin! </object>
+	<finaltext>Very Good!</finaltext>
+	</level>
+	
+	<level><!-- Question 1 ! -->
+	<name>Question 1</name>
+	<tutorial>What is Bob's profession?</tutorial>
+	<object name="Cube">1. Plumber </object>
+	<object name="Cylinder">2. Mechanic</object>
+	<object name="Capsule">3. Carpenter</object>
+	<object name="Sphere">4. Salesman</object>
+	<finaltext>Congratulations!</finaltext>
+	</level>
+	<level><!-- Question 2 ! -->
+	<name>Question 2</name>
+	<tutorial>What is Francis's profession?</tutorial>
+	<object name="Cube">1. Plumber </object>
+	<object name="Cylinder">2. Mechanic</object>
+	<object name="Capsule">3. Carpenter</object>
+	<object name="Sphere">4. Salesman</object>
+	<finaltext>Congratulations!</finaltext>
+	</level>
+	<level><!-- Question 3 ! -->
+	<name>Question 3</name>
+	<tutorial>What is Duncan's profession?)</tutorial>
+	<object name="Cube">1. Plumber </object>
+	<object name="Cylinder">2. Mechanic</object>
+	<object name="Capsule">3. Carpenter</object>
+	<object name="Sphere">4. Salesman</object>
+	<finaltext>Congratulations!</finaltext>
+	</level>
+	<level><!-- Question 4 ! -->
+	<name>Question 4</name>
+	<tutorial>What is Putin's profession?</tutorial>
+	<object name="Cube">1. Plumber </object>
+	<object name="Cylinder">2. Mechanic</object>
+	<object name="Capsule">3. Carpenter</object>
+	<object name="Sphere">4. Salesman</object>
+	<finaltext>Congratulations!</finaltext>
+	</level>
+</levels>
